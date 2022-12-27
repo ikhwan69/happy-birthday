@@ -4,8 +4,8 @@ import firli2 from "./assets/firli2.jpg";
 export default () => (
   <div className="birthdayCard logo react">
     <div className="cardFront">
-      <h3 className="happy">BARAKALLAH FII UMRIK</h3>
-        <img src={firli} alt="" />
+      <h3 className="happy">Sihlakan Klik gaess</h3>
+      <img src={firli} alt="" />
       <div className="balloons">
         <div className="balloonOne" />
         <div className="balloonTwo" />
