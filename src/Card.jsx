@@ -13,16 +13,15 @@ export default () => (
         <div className="balloonFour" />
       </div>
     </div>
-    <div className="cardInside px-4">
+    <div className="cardInside px-4 text-center">
       <h3 className="back">Barakallah fii umrik</h3>
       <img
         src={firli2}
         alt="firli2"
-        className=" border mx-auto w-24 h-24 rounded-full my-2 object-cover object-top flex justify-center"
+        className=" border mx-auto w-28 h-28 rounded-full mb-2 object-cover object-top flex justify-center"
       />
-      <p>
-        Dear My Friend, <span className="font-bold">Muhammad Firliansyah</span>{" "}
-      </p>
+      <p>Dear My Friend</p>
+      <p className="font-bold">Muhammad Firliansyah</p>
       <p className="my-2 text-sm">
         "Hari yang indah untuk temanku; <br /> harapan dan impian yang saya
         kirimkan kepadamu. Semoga semua baik dan semua menjadi kenyataan di hari
