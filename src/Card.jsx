@@ -9,7 +9,11 @@ export default () => (
     </audio>
     <div className="birthdayCard logo react">
       <div className="cardFront">
-        <h3 className="happy">Sihlakan Klik gaess</h3>
+        <div className="happy">
+          <h3 className="font-medium" >Barakallah Fii Umrik</h3>     
+            <p className="text-[10px] text-slate-200">Klik >></p>
+        </div>
+        
         <img src={firli} alt="" />
         <div className="balloons">
           <div className="balloonOne" />
